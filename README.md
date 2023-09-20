@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 </div> 
 -->
   
-### <div align="center">Hi there 👋</div>  
+<div style="width: 100%;">
+    <img src="header.svg" style="width: 100%; height: 250px;" alt="welcome">
+</div>
 
 ### <div align="center">I'm Monica, a front-end engineer who loves the possibilities of programming and designing👩‍💻</div>  
 🔭 &nbsp; I’m currently working on [adGeek](https://www.adgeek.com/) as a front-end engineer  <br>
