@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ## 👋 Short Intro
 🔭 &nbsp; I’m currently working on [adGeek](https://www.adgeek.com/) as a front-end engineer  <br>
 🌱 &nbsp; I’m currently learning TypeScript and Next.js  <br>
-## 🤓 My values
+## 🤓 My Values
 🙌 &nbsp; Adaptable to new knowledge and challenges<br>
 🗣️ &nbsp; Capability in cross-domain communication and integration<br/>  
  
