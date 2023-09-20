@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 🙌 &nbsp; Capability in cross-domain communication and integration<br/>  
  
 ## 🛠️ My Skill Set  
-<table style="width: 100% !important;"><tr><td valign="top" width="33%">
+<table ><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
