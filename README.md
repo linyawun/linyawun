@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 ### <div align="center">Hi there 👋</div>  
 
 ### <div align="center">I'm Monica, a front-end engineer who loves the possibilities of programming and designing👩‍💻</div>  
-- 🔭 I’m currently working on [adGeek](https://www.adgeek.com/) as a front-end engineer  
-- 🌱 I’m currently learning TypeScript and Next.js  
+🔭 &nbsp; I’m currently working on [adGeek](https://www.adgeek.com/) as a front-end engineer  <br>
+🌱 &nbsp; I’m currently learning TypeScript and Next.js  <br>
 
 ## 🤓 My values
 💡 &nbsp; Adaptable to new knowledge and challenges<br>
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 </td></tr></table>  
 
 
-## Connect with me  
+## 🔗 Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/ya-wun-lin" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
