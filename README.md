@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 💡 &nbsp; Adaptable to new knowledge and challenges<br>
 🙌 &nbsp; Capability in cross-domain communication and integration<br/>  
 
-## My Skill Set  
+## 🛠️ My Skill Set  
 <table style="width: 100% !important;"><tr><td valign="top" width="33%">
 
 ### Frontend  
