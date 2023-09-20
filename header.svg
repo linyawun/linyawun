@@ -54,6 +54,8 @@
           display: flex;
           justify-content: center;
           align-items: center;
+          padding: 0 50px;
+          text-align: center;
         }
         .hi {
           animation: hi 1.5s linear -0.5s infinite;
@@ -89,7 +91,7 @@
           <h1>Hi there, I'm Monica <div class="hi">👋</div></h1>
         </div>
         <div class='wrap'>
-          <h3>Nice to meet you :)</h3>
+          <h3>a front-end engineer exploring the possibilities of design and programming 👩‍💻</h3>
         </div>
       </div>
     </div>
