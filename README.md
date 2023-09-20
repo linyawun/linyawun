@@ -22,15 +22,15 @@ Here are some ideas to get you started:
   
 <div style="width: 100%;">
     <img src="header.svg" style="width: 100%; height: 250px;" alt="welcome">
+
 </div>
 
-### <div align="center">I'm Monica, a front-end engineer who loves the possibilities of programming and designing👩‍💻</div>  
+## 👋 Short Intro
 🔭 &nbsp; I’m currently working on [adGeek](https://www.adgeek.com/) as a front-end engineer  <br>
 🌱 &nbsp; I’m currently learning TypeScript and Next.js  <br>
-<br/>  
 ## 🤓 My values
-💡 &nbsp; Adaptable to new knowledge and challenges<br>
-🙌 &nbsp; Capability in cross-domain communication and integration<br/>  
+🙌 &nbsp; Adaptable to new knowledge and challenges<br>
+🗣️ &nbsp; Capability in cross-domain communication and integration<br/>  
  
 ## 🛠️ My Skill Set  
 <table ><tr><td valign="top" width="33%">
