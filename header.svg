@@ -3,18 +3,21 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .container {
+          position: relative;
+          box-sizing: border-box;
           text-align: center;
-          padding: 20px;
           font-size: 26px;
           font-weight: 400;
+          width: 100%;
+          height: 250px;
           display: flex;
           flex-direction: column;
           justify-content: center;
-          width: 100%;
-          height: 250px;
+          border-radius: .5em;
           background: #0b0b0b;
           font-family: monospace, "Raleway", sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         }
+
         .wrapper {
           display: flex;
           justify-content: center;
@@ -66,6 +69,54 @@
           animation: blink2 0.6s steps(23) infinite;
         }
 
+        .main {
+          position: absolute;
+          top: 35%;
+        }
+
+        .bar {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 635px;
+          border-radius: 0.5em 0.5em 0 0;
+          padding: 0.32em;
+          flex: 0 0 auto;
+          display: flex;
+          background: linear-gradient(to bottom, #eaeaea, #d2d2d2);
+          border-bottom: 1px solid #7d7d7d;
+          color: #4c4c4c;
+        }
+
+        .bar .buttons {
+          display: flex;
+          align-items: center;
+          margin-left: 4px;
+        }
+
+        .bar .buttons .button {
+          margin: 0 0.3em 0 0;
+          height: 0.5em;
+          width: 0.5em;
+          display: inline-block;
+          float: left;
+          border-radius: 50%;
+          box-shadow: inset 0 0 0.1em rgba(51, 51, 51, 0.4);
+        }
+
+        .bar .buttons .button:nth-child(1) {
+          position: relative;
+          background: #fe6058;
+        }
+
+        .bar .buttons .button:nth-child(2) {
+          background: #fdbd34;
+        }
+
+        .bar .buttons .button:nth-child(3) {
+          background: #23c944;
+        }
+
         @keyframes moveup {
           0% {
             top: 0;
@@ -109,21 +160,31 @@
         }
       </style>
       <div class="container">
-        <div class="wrapper">
-          <div class="dynamic-text-wrapper">
-            <div class="dynamic-text">Hello, I'm Monica 👋
-              <span class='cursor'>_</span>
-            </div>
-            <div class="dynamic-text">I'm a Front-end Engineer 👩‍💻<span class='cursor'>_</span></div>
-            <div class="dynamic-text">I'm passionate about </div>
+
+        <div class="bar">
+          <div class="buttons">
+            <div class="button"></div>
+            <div class="button"></div>
+            <div class="button"></div>
           </div>
         </div>
+        <div class="main">
 
-        <div class="wrapper">
-          <div class="dynamic-text-wrapper">
-            <div class="dynamic-text text-small">Nice to meet you! :) <span class='cursor'>_</span></div>
-            <div class="dynamic-text text-small">HTML, CSS, JavaScript, React, etc.<span class='cursor'>_</span></div>
-            <div class="dynamic-text text-small">the possibilities of design and programming ✨<span class='cursor'>_</span></div>
+          <div class="wrapper">
+            <div class="dynamic-text-wrapper">
+              <div class="dynamic-text">Hello, I'm Monica 👋
+                <span class='cursor'>_</span>
+              </div>
+              <div class="dynamic-text">I'm a Front-end Engineer 👩‍💻<span class='cursor'>_</span></div>
+              <div class="dynamic-text">I'm passionate about </div>
+            </div>
+          </div>
+          <div class="wrapper">
+            <div class="dynamic-text-wrapper">
+              <div class="dynamic-text text-small">Nice to meet you! :) <span class='cursor'>_</span></div>
+              <div class="dynamic-text text-small">HTML, CSS, JavaScript, React, etc.<span class='cursor'>_</span></div>
+              <div class="dynamic-text text-small">the possibilities of design and programming ✨<span class='cursor'>_</span></div>
+            </div>
           </div>
         </div>
 
