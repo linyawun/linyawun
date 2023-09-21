@@ -22,7 +22,6 @@ Here are some ideas to get you started:
   
 <div style="width: 100%;">
     <img src="header.svg" style="width: 100%; height: 250px;" alt="welcome">
-
 </div>
 
 ## 👋 Short Intro
