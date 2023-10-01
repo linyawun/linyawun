@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </div>
 
 ## 👋 Short Intro
-🔭 &nbsp; I’m currently working on [adGeek](https://www.adgeek.com/) as a front-end engineer  <br>
+🔭 &nbsp; I’m currently working on [adGeek](https://www.adgeek.com/) as a Frontend Engineer  <br>
 🌱 &nbsp; I’m currently learning TypeScript and Next.js  <br>
 ## 🤓 My Values
 🙌 &nbsp; Adaptable to new knowledge and challenges<br>
