@@ -30,7 +30,10 @@ Here are some ideas to get you started:
 ## 🤓 My Values
 🙌 &nbsp; Adaptable to new knowledge and challenges<br>
 🗣️ &nbsp; Capability in cross-domain communication and integration<br/>  
- 
+## 💡 My Sharings
+- 2024.04.03 &nbsp; [《React 思維進化》 讀書會導讀：ch2-8~2-9](https://react-book-slide.vercel.app/1)
+- 2024.10.29 &nbsp; [Frontend Security: Intro to Browser Security Model and XSS](https://linyawun.github.io/Beyond-XSS-Book-slide-Ch1/1)
+- 2024.12.26 &nbsp; [《Beyond XSS：探索網頁前端資安宇宙》 讀書會導讀：ch4-1~4-3](https://linyawun.github.io/Beyond-XSS-Book-slide-Ch4/1)
 ## 🛠️ My Skill Set  
 <table ><tr><td valign="top" width="33%">
 
