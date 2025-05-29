@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 - 2024.12.26 &nbsp; [《Beyond XSS：探索網頁前端資安宇宙》 讀書會導讀：ch4-1~4-3](https://linyawun.github.io/Beyond-XSS-Book-slide-Ch4/1)
 - 2025.02.14 &nbsp; [2024 iThome 鐵人賽 參賽心得分享](https://linyawun.github.io/2024-iThome-sharing/1)
 - 2025.05.20, 05.23 &nbsp; [Exploring Axios: What Does This Library Do for Us?](https://linyawun.github.io/axios-intro-slide/1)
+- 2025.05.29 [《簡約的軟體開發思維：用 Functional Programming 重構程式 - 以 JavaScript 為例》讀書會導讀：ch10 ~ 11](https://functional-programming-ch10-11.vercel.app/1)
 ## 🛠️ My Skill Set  
 <table ><tr><td valign="top" width="33%">
 
